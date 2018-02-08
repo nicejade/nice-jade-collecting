@@ -63,3 +63,4 @@
 | [crawl_page-invalid_link.js](https://github.com/nicejade/nice-jade-collecting/blob/master/scripts/crawl_page-invalid_link.js) | `Node Script`  | 使用Node抓取指定页面所有链接，并将非有效链接输出;|
 | [parseReadXls.js](https://github.com/nicejade/nice-jade-collecting/blob/master/scripts/parseReadXls.js) | `Node Script` |  使用 Node 解析**.xls**格式的 Excel 文件并以json格式输出|
 | [parseReadXlsx.js](https://github.com/nicejade/nice-jade-collecting/blob/master/scripts/parseReadXlsx.js) | `Node Script`| 使用 Node 解析**.xlsx**格式的 Excel 文件并以json格式输出|
+| [markdown-here-style-for-wechat](https://github.com/nicejade/nice-jade-collecting/blob/master/css/markdown-here-style-for-wechat.css) | `Css Style` | 微信公众号毫秒级排版，让你快速排版，且充满审美愉悦感；复制此代码到“markdown here基本渲染css”即可 |
