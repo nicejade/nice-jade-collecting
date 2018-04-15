@@ -5,6 +5,8 @@
 - [数学之美番外篇：平凡而又神奇的贝叶斯方法](http://mindhacks.cn/2008/09/21/the-magical-bayesian-method/)
 - [时间管理的七句话](http://www.ruanyifeng.com/blog/2016/05/time-management.html)
 - [暗时间-刘未鹏](http://mindhacks.cn/2009/12/20/dark-time/)
+- [不是技术也能看懂云计算，大数据，人工智能](http://www.cnblogs.com/popsuper1982/p/8505203.html)
+- [深度工作：充分使用每一份脑力](https://www.cnblogs.com/buptzym/p/8059121.html)
 
 ## [Front-end Tutorial](https://github.com/nicejade/new-front-end-tutorial/blob/master/README.md)
 
