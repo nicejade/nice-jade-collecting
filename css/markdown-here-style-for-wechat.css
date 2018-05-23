@@ -25,10 +25,9 @@ pre, code {
 }
 
 code {
-  background-color: #f8f8f8;
-  padding: 0.2em 0.5em;
   color:#c7254e;
   font-size: 0.9em;
+  border: none;
   border-radius: 2px;
   display: inline; /* added to fix Yahoo block display of inline code */
   white-space: pre-wrap;
@@ -69,8 +68,8 @@ p{
   font-size: 15px !important;
   color: #333 !important;
   line-height: 1.8em !important;
-  letter-spacing: 0.1em !important;
-  margin: 1em 1em !important;
+  letter-spacing: 1px !important;
+  margin: 1em 0 !important;
   text-align: justify !important;
 }
 
@@ -84,23 +83,13 @@ ul, ol {
   list-style-type: disc;
 }
 
-li{
-  margin: 0.2em 0;
-  font-family: Avenir, "PingFangSC-Light" !important;
-  font-size: 15px !important;
-  color: #333 !important;
-  line-height: 1.8em !important;
-  letter-spacing: 0.1em !important;
-  margin: 0.2em 0.2em !important;
-}
-
 ul li {
   margin: 0;
   font-family: Avenir, "PingFangSC-Light" !important;
   font-size: 15px !important;
   color: #333 !important;
   line-height: 1.8em !important;
-  letter-spacing: 0.1em !important;
+  letter-spacing: 1px !important;
   margin: 0.2em 0.2em !important;
 }
 
@@ -111,7 +100,7 @@ ul li p{
 /* Smaller spacing for sub-lists */
 ul ul, ul ol, ol ul, ol ol {
   margin: 0;
-  padding-left: 1em;
+  padding-left: .5em;
 }
 
 /* Use Roman numerals for sub-ordered-lists. (Like Github.) */
@@ -171,7 +160,7 @@ h1, h2, h3, h4, h5, h6 {
   padding: 0;
   text-align: center !important;
   font-weight: bold;
-  letter-spacing: 0.1em !important;
+  letter-spacing: 1px !important;
 }
 
 h1 {
